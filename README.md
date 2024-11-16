@@ -1,4 +1,4 @@
-# 💫 About Me: Mostly a Gamer <br>🌱 I’m currently learning Coding <br><br>⚡ Fun fact: I like going on bicycle rides<3
+# 💫 About Me: Tunnisian, Mostly a Gamer <br>🌱 I’m currently learning Coding <br><br>⚡ Fun fact: I like going on bicycle rides<3
 
 
 # 💻 Tech Stack:
